@@ -32,8 +32,8 @@ This project used **uplift modeling** to estimate the **incremental impact** of 
 
 ## 📂 Repository Contents
 
-- `cg-uplift.ipynb` – Jupyter Notebook with data preparation, modeling, and uplift evaluation.  
-- `creative-gaming.pdf` – Case Study.  
+- `Analysis.ipynb` – Jupyter Notebook with data preparation, modeling, and uplift evaluation.  
+- `Case Study.pdf` – Case Study.  
 
 ---
 
